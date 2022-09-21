@@ -1,0 +1,66 @@
+h1 {
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.cabecera {
+    background-image: "/Parque Natural/images/panoramica.jpg";
+}
+
+span {
+    color: orange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(13, 205, 13);
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: orange;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div {
+    border: 1px solid gray;
+    margin: 0.5em;
+    padding: 00.5em;
+}
+
+body {
+    border: 10px solid;
+    color: gray;
+    margin: auto;
+    padding: 500;
+    width: 900px;
+}
+
+ul {
+    text-align: left;
+}
+
+button {
+    width: auto;
+    height: auto;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 50%, rgba(211, 147, 102, 1)100%);
+}
+
+head {
+    width: auto;
+    height: 400px;
+    background-image: "../images/panoramica.jpg";
+}
+
+.contenedorglobal {
+    display: flex;
+}
+
+img {
+    margin: auto;
+}
